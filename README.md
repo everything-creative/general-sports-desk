@@ -4,7 +4,7 @@ General Sports Desk is an open-source workspace for building transparent, reusab
 
 ## Status
 
-This repository is intentionally starting with a clean history. No EveryBook source code, production data, credentials, provider-derived datasets, or proprietary model logic has been imported.
+This repository is intentionally starting with a clean history. No retired-project source code, production data, credentials, provider-derived datasets, or proprietary model logic has been imported.
 
 Initial development will focus on public-safe foundations:
 
@@ -25,6 +25,7 @@ Initial development will focus on public-safe foundations:
 ## Contributing
 
 The project is at its foundation stage. See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing code or data imports.
+Material influenced by a private or retired project must also follow [MIGRATION_POLICY.md](MIGRATION_POLICY.md).
 
 ## License
 
